@@ -1,5 +1,6 @@
 # Linear Algebra Final Project
 Authors: Olexiy Nagirny, Natalia Novosad
+
 Training of REINFORCE and Advantage Actor-Critic algorithms on LunarLander environment.
 
 
