@@ -8,6 +8,8 @@ torch, ptan, tensorboardX
 
 2) Needed Gym environment to be installed: 'LunarLander-v2' (discrete case).
 
+If you want to see trained agent in action (1 game) you can (after installing dependencies) simply run file play_trained_agent.py via 'python' command. 
+
 Huge credit goes to Maxim Lapan's "Deep Reinforcement Learning Hands-On" book as we base our code on his examples:
 https://github.com/PacktPublishing/Deep-Reinforcement-Learning-Hands-On
 
